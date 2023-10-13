@@ -1,4 +1,5 @@
 <!DOCTYPE html>
-
-<header> IS 117 - 005: Introduction to Website Development </header>
-<p1> Vrunda Patel </p1>
+<html>
+<title> IS 117 - 005: Introduction to Website Development </title>
+<h1> Vrunda Patel </h1>
+</html>
